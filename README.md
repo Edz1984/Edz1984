@@ -39,7 +39,7 @@
 - Designed and implemented complex SQL queries using SSMS to retrieve and aggregate data from multiple tables for detailed business insights and reporting.
 - Imported SQL table data into Excel, using Pivot Tables and charts for analysis on objective KPIs and dashboard design.
 - Published an advanced executive technical analysis on essential KPIs using Tableau, focusing on region, top sales rep, and branches.
-- 
+  
 ### FOREX BUSINESS ANALYSIS – Client Project – London, UK (August 2017 – August 2019)
 - Utilized SQL to store forex transactions, exchange rates, and portfolio details, importing historical data and ongoing transactions.
 - Set up ODBC connections to import SQL table data into Excel sheets.
