@@ -25,11 +25,6 @@
 
 ## Projects
 
-### SALES ANALYSIS END-TO-END DASHBOARD – Personal Project (April 2020)
-- Designed and implemented complex SQL queries using SSMS to retrieve and aggregate data from multiple tables for detailed business insights and reporting.
-- Imported SQL table data into Excel, using Pivot Tables and charts for analysis on objective KPIs and dashboard design.
-- Published an advanced executive technical analysis on essential KPIs using Tableau, focusing on region, top sales rep, and branches.
-
 ### FINANCE PERFORMANCE DASHBOARD – Personal Project (February 2024)
 - Created a Power BI dashboard to help clients compare previous YTD and current YTD performance.
 - Transformed and processed data using DAX and Excel to ensure data completeness and validity.
@@ -40,6 +35,11 @@
 - Used conditional formatting to highlight time-sensitive overdue projects and missing documentation.
 - Assisted with internal project management, improved risk management, and gained client trust through successful project completion.
 
+### SALES ANALYSIS END-TO-END DASHBOARD – Personal Project (April 2020)
+- Designed and implemented complex SQL queries using SSMS to retrieve and aggregate data from multiple tables for detailed business insights and reporting.
+- Imported SQL table data into Excel, using Pivot Tables and charts for analysis on objective KPIs and dashboard design.
+- Published an advanced executive technical analysis on essential KPIs using Tableau, focusing on region, top sales rep, and branches.
+- 
 ### FOREX BUSINESS ANALYSIS – Client Project – London, UK (August 2017 – August 2019)
 - Utilized SQL to store forex transactions, exchange rates, and portfolio details, importing historical data and ongoing transactions.
 - Set up ODBC connections to import SQL table data into Excel sheets.
